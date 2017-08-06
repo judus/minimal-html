@@ -2,9 +2,7 @@
 
 namespace Maduser\Minimal\Html\Tests;
 
-use PHPUnit\Framework\TestCase;
-
-class HtmlTest extends TestCase
+class HtmlTest extends \PHPUnit_Framework_TestCase
 {
 
 }
